@@ -1,2 +1,2 @@
-# samelesamu.github.io
+# samulesamu.github.io
 tutorial github
